@@ -2,7 +2,7 @@
 int main(){
     char Dapinder[100];
 
-    scanf("%c",&Dapinder);
-    printf("You entered: %c\n",Dapinder);
+    scanf("%s",&Dapinder);
+    printf("You entered: %s\n",Dapinder);
     return 0;
     }
