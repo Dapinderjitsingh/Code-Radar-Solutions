@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
-    char x;
-    scanf("%d",&x);
-    printf("ASCII Value: %d\n",x);
+    char A;
+    scanf("%d",&A);
+    printf("ASCII Value: %d\n",A);
     return 0;
 }
