@@ -6,7 +6,7 @@ int main(){
         printf("True");
 
     }
-    else(x>!=y){
+    else{
         printf("False");
     }
     return 0;
