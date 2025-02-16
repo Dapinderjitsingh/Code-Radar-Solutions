@@ -8,8 +8,5 @@ int main(){
     }
     if(x<y)
     printf("false");
-    else{
-        printf("False");
-    }
     return 0;
 }
