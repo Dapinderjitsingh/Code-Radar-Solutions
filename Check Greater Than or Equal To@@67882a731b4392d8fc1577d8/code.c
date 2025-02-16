@@ -7,6 +7,6 @@ int main(){
 
     }
     if(x<y)
-    printf("false");
+    printf("False");
     return 0;
 }
