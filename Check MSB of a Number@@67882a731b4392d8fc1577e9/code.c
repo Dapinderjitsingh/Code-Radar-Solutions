@@ -2,7 +2,7 @@
 int main(){
     int a,result;
     scanf("%d",&a);
-    result=a>>31;
+    result=(a>>31) & 1;
     if(result==1){
         printf("Set");
     }
