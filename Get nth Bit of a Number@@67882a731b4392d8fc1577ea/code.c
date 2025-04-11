@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
-    int a,result;
-    scanf("%d",&a);
+    int a,n,result;
+    scanf("%d%d",&a,&n);
     result=(a>>n) & 1;
     if(result==1){
         printf("Set");
